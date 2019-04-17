@@ -1,7 +1,4 @@
-import allocationTechniques.AllocationTechnique;
-import allocationTechniques.Contiguous;
-import allocationTechniques.Indexed;
-import allocationTechniques.Linked;
+import allocationTechniques.*;
 import models.*;
 
 import java.util.Scanner;
