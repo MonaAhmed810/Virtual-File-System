@@ -1,2 +1,2 @@
 # Virtual-File-System
-Simulation for files and folders allocation and deallocation using different techniques.
+Simulation of allocation and de-allocation for files and folders using different techniques.
